@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "347432679637",
+    "firebase_url": "https://blood-fa029.firebaseio.com",
+    "project_id": "blood-fa029",
+    "storage_bucket": "blood-fa029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347432679637:android:cc43f6425ced44033f8a5c",
+        "android_client_info": {
+          "package_name": "com.example.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347432679637-qb38enbjjc7hpineb1qtpuprvgqlo4s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood",
+            "certificate_hash": "db1bb7d03cf5288fd35f222a6ec4ec02cba4befd"
+          }
+        },
+        {
+          "client_id": "347432679637-in3lacmte09p43v0p8psedb4027nrugs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood",
+            "certificate_hash": "b7d9ca77fb529fcb7d77d7946853ba1da682c4c6"
+          }
+        },
+        {
+          "client_id": "347432679637-evtviqhhhvl3dv6tagvqps70ggscg2kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdwiF8o_bEiYpW9dGMW44ObP5xkqBWmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347432679637-evtviqhhhvl3dv6tagvqps70ggscg2kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
